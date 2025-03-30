@@ -47,5 +47,6 @@ Los análisis indican diferencias significativas en la forma en que se registran
 
 Para facilitar la revisión del proyecto, se incluyen los siguientes enlaces (ver el archivo `Enlaces.txt` para más detalles):
 
-- **Repositorio en GitHub:** [https://github.com/tu-usuario/ColombianosDetenidosDashboard](https://github.com/tu-usuario/ColombianosDetenidosDashboard)
-- **Visualización en Binder:** [https://mybinder.org/v2/gh/tu-usuario/ColombianosDetenidosDashboard/HEAD?urlpath=src/app.py](https://mybinder.org/v2/gh/tu-usuario/ColombianosDetenidosDashboard/HEAD?urlpath=src/app.py)
+- **Repositorio en GitHub:** https://github.com/Sjrios29/ColombianosDetenidosDashboard
+- **Visualización en Binder:** https://mybinder.org/v2/gh/Sjrios29/ColombianosDetenidosDashboard/main?urlpath=src/app.py
+
